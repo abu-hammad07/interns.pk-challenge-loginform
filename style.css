@@ -45,7 +45,7 @@ body {
 }
 
 #login-form .containerfeilds input[type="password"] {
-    border-top: 1px solid var(--white);
+    border-top: 1px solid #ccc;
     border-radius: 0px;
     -webkit-border-bottom-right-radius: 6px;
     -webkit-border-bottom-left-radius: 6px;
